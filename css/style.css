@@ -1,0 +1,116 @@
+body{
+    
+    background: #222222;
+    height: 8000px;
+    line-height:1.2;
+    margin: 0;
+}
+.navbar-brand p  {
+    text-shadow: 2px 5px 10px #F3CC8A, 0 0 1em #F3CC8A;
+    color: #231000;
+    font-family: balthazar;
+}
+.navbar-brand span{
+    text-shadow: 2px 5px 10px #F3CC8A, 0 0 1em #F3CC8A;
+    color: #BF9964;
+    font-size: small;
+    font-family: balthazar;
+    
+    
+} 
+.navbar {
+    margin-bottom: 0;
+}
+
+.navbar-nav {
+    border-bottom:none;
+float: none;
+text-align: center;
+}
+.navbar-nav li {
+float: none;
+display: inline-block;
+}
+
+.no-margin h3
+ {
+    color: #E0514B;
+    font-family: SUPERFRENCH;
+    font-size:30px;
+    font-weight:900; 
+    text-align: center;
+    margin-top: 80px ;
+}
+
+.fonblok{
+    background:url(../img/1458153359329729.jpg) no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+h4 {
+    margin-top: 1%;
+    text-decoration:underline; 
+    font-weight:600;
+}
+h4 a {
+   color: #2D0D00; 
+}
+.img-logo{
+    margin-top: 200px;
+    height: 100%;
+    background:url(../img/586078119_w640_h640_lvbp22afdvq.jpg) no-repeat;
+    background-position: center;
+}
+h4 {
+    text-align: center;
+    padding: 3px;
+    padding-left: 50px;
+    color: #000000;
+    
+}
+.CROWN{
+    padding-top:  1%;
+}
+
+#aroma {
+    height: 100px;
+}
+.fonarom{
+   
+    height: 1900px;
+}
+.flu{
+    margin-top:60px;
+}
+.img-responsive{
+    height: 50%;
+    width: 50%;
+    margin: auto;
+}
+h3, p {
+    text-align: center;
+    color: #ffffff;
+}
+.row h3{
+    text-shadow: 1px 2px 5px #ffffff;
+}
+
+.FonmyCarousel{
+    background:url(../img/e3f09becd83823a62f67ffab97c94039.jpg) no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+
+.video {
+padding-top: 150px;
+  text-align: center;
+}
+
+iframe {
+    
+   margin: auto; 
+}
+#myCarousel .carousel-indicators{
+    bottom: -40px;
+}
+
