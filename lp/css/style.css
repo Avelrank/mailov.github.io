@@ -155,7 +155,7 @@ button{
     color: #ff6d6d;
 }
 .item-titl{
-    color: #ffff;
+    color: #fff;
 }
 .partner li img{
     filter: contrast(0%) sepia(100%) hue-rotate(20deg) brightness(0.9) saturate(10%);
